@@ -1,25 +1,23 @@
-## Hit [Download Zip](https://github.com/mxeng/mcp/archive/master.zip) above to get the latest code!
-
 [Atmel ATmega2560 Datasheet](http://www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)
 
 [Arduino Mega Pin Mapping](https://www.arduino.cc/en/uploads/Hacking/PinMap2560big.png)
 
 ## Tutorials:
-- [Bit Manipulation and Digital Output](https://github.com/mxeng/mcp-docs/blob/master/tutorials/bit_manipulation.md)
-- [Digital and Analogue Input](https://github.com/mxeng/mcp-docs/blob/master/tutorials/input.md)
-- [Differential drive from joystick inputs](https://github.com/mxeng/mcp-docs/blob/master/tutorials/motor_drive.md)
+- [Bit Manipulation and Digital Output](https://github.com/TomW1605/mcp/blob/master/docs/tutorials/bit_manipulation.md)
+- [Digital and Analogue Input](https://github.com/TomW1605/mcp/blob/master/docs/tutorials/input.md)
+- [Differential drive from joystick inputs](https://github.com/TomW1605/mcp/blob/master/docs/tutorials/motor_drive.md)
 
 
 
 ## Labs:
-[Lab A](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-a.md) -
-[Lab B](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-b.md) - 
-[Lab C](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-c.md) -
-[Lab D](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-d.md) -
-[Lab E](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-e.md) -
-[Lab F](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-f.md) - 
-[Lab G](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-g.md) -
-[Lab H](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-h.md)
+[Lab A](https://github.com/TomW1605/mcp/blob/master/docs/labs/lab-a.md) -
+[Lab B](https://github.com/TomW1605/mcp/blob/master/docs/labs/lab-b.md) - 
+[Lab C](https://github.com/TomW1605/mcp/blob/master/docs/labs/lab-c.md) -
+[Lab D](https://github.com/TomW1605/mcp/blob/master/docs/labs/lab-d.md) -
+[Lab E](https://github.com/TomW1605/mcp/blob/master/docs/labs/lab-e.md) -
+[Lab F](https://github.com/TomW1605/mcp/blob/master/docs/labs/lab-f.md) - 
+[Lab G](https://github.com/TomW1605/mcp/blob/master/docs/labs/lab-g.md) -
+[Lab H](https://github.com/TomW1605/mcp/blob/master/docs/labs/lab-h.md)
 
 ## Microcontroller Project Repository
 This repository contains the code for the second year mechatronics unit microcontroller project. Hit the link above or "Download Zip" button in the upper right to get the code.
