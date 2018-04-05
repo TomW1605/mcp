@@ -11,8 +11,8 @@
 
 Task:
 - A controller Arduino will be provided, equipped with an LCD display, two analogue joysticks and an XBee communication unit.  
-  Schematic: https://github.com/mxeng/mcp-docs/blob/master/labs/controller_schematic.pdf,  
-  Wiring Diagram: https://github.com/mxeng/mcp-docs/blob/master/labs/controller_wiring.pdf
+  Schematic: https://github.com/TomW1605/mcp/blob/master/docs/labs/controller_schematic.pdf,  
+  Wiring Diagram: https://github.com/TomW1605/mcp/blob/master/docs/labs/controller_wiring.pdf
 - You should establish wireless communication between two the controller unit and your robot Arduino unit equipped with a second XBee.
 - Transmit instructions for two servos (as per lab F) from the control unit to the robot unit. **(G1)**
 - Transmit sensor readings back from the robot unit to the control unit. **(G2)**
@@ -53,7 +53,7 @@ while(1)
 
 ### Multibyte Recieving:
 Don't forget to initialise your serial subsystems and to declare and initialise your variables.
-(An example is here: https://github.com/mxeng/mcp-docs/blob/master/labs/initialisation_example_for_coms.md)
+(An example is here: https://github.com/TomW1605/mcp/blob/master/docs/labs/initialisation_example_for_coms.md)
 ```c
 //main loop
 while(1)
