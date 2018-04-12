@@ -1,6 +1,6 @@
 [Atmel ATmega2560 Datasheet](http://www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)
 
-[Arduino Mega Pin Mapping](https://www.arduino.cc/en/uploads/Hacking/PinMap2560big.png)
+[Arduino Mega Pin Mapping](https://raw.githubusercontent.com/TomW1605/mcp/master/docs/PinMap2560big.png)
 
 ## Tutorials:
 - [Bit Manipulation and Digital Output](https://github.com/TomW1605/mcp/blob/master/docs/tutorials/bit_manipulation.md)
